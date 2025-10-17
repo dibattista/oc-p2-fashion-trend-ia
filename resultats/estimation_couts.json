@@ -1,0 +1,11 @@
+{
+  "nb_images_test": 50,
+  "temps_total_sec": 111,
+  "temps_moyen_sec": 2.22,
+  "estimation_500k_heures": 308.3333333333333,
+  "estimation_500k_jours": 12.847222222222221,
+  "heures_par_jour": 10.277777777777777,
+  "cout_gpu_t4_total": 154.16666666666666,
+  "cout_gpu_t4_par_jour": 5.138888888888888,
+  "cout_par_image_gpu_t4": 0.0003083333333333333
+}
